@@ -1,0 +1,14 @@
+JobRef: FE1234
+Title: "Programador Front-End"
+ContractType: full-time
+Mode: onsite
+Address: "1234 Rua dos Programadores, Porto, Portugal"
+Company: "Desenvolvimento Global Tech"
+Vacancies: 2
+Description: "Procuramos programadores front-end experientes para desenvolver e manter aplicações web modernas utilizando React e Redux. Deverão possuir boas práticas de código e experiência com testes automatizados."
+Requirements:
+ReqSpec: "Grau de Bacharel em Ciência da Computação ou similar"
+ReqSpec: "Mínimo de 3 anos de experiência com JavaScript, HTML5, CSS3"
+ReqSpec: "Experiência com frameworks modernos como React ou Angular"
+ReqSpec: "Conhecimento em Redux, Git, e metodologias ágeis como Scrum"
+ReqSpec: "Fluência em Inglês técnico para colaboração global"
